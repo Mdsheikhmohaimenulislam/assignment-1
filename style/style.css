@@ -1,7 +1,7 @@
 .navber{
     display: flex;
     justify-content: space-around;
-    gap: 890px;
+    gap: 1000px;
 
 }
 
@@ -73,7 +73,7 @@
 }
 
 .margin{
-    margin:50px 38px 0px 39px;
+    margin:50px 50px 0px 50px;
 }
 
 .pillar{
@@ -86,7 +86,71 @@
     border-radius: 16px;
     background-color:rgba(255, 255, 255, 1) ;
     border: 1px solid rgba(14, 14, 14, 0.15) ;
+    box-shadow: 0px 0px 3px 0px;
 }
 
 /* the vision of future */
+
+.vision{
+    margin-top: 100px;
+}
+.vision-container{
+    display: flex;
+    gap:100px;
+    margin-top:32px;
+    margin-bottom: 100px;
+}
+.vision-contant{
+    padding:12px 24px 24px 24px ;
+    border-radius: 16px;
+    background-color:rgba(255, 255, 255, 1) ;
+    box-shadow: 0px 0px 3px 0px;
+    background-color:rgb(220, 229, 245) ;
+
+}
+
+.vision-2{
+    padding:12px 24px 24px 24px ;
+    border-radius: 16px;
+    background-color:rgba(255, 255, 255, 1) ;
+    box-shadow: 0px 0px 3px 0px;
+    background-color: rgb(175, 243, 213);
+
+
+}
+
+.vision-3{
+    padding:12px 24px 24px 24px ;
+    border-radius: 16px;
+    background-color:rgba(255, 255, 255, 1) ;
+    box-shadow: 0px 0px 3px 0px;
+    border: none;
+    background-color: rgb(238, 215, 161);
+
+}
+
+.learn-btn{
+    padding: 11px 20px 11px 20px;
+    border-radius: 6px;
+    background-color:rgba(84, 144, 245, 1) ;
+    border: rgba(84, 144, 245, 1);
+
+}
+
+.learn-btn-2{
+    padding: 11px 20px 11px 20px;
+    border-radius: 6px;
+    background-color: rgba(9, 161, 92, 1);
+    border: rgba(9, 161, 92, 1) ;
+}
+
+.learn-btn-3{
+    padding: 11px 20px 11px 20px;
+    border-radius:6px;
+    background-color: rgba(255, 194, 57, 0.76);
+    border: rgba(255, 194, 57, 0.76);
+
+}
+
+
                             
