@@ -1,0 +1,92 @@
+.navber{
+    display: flex;
+    justify-content: space-around;
+    gap: 890px;
+
+}
+
+.bnt{
+    font-size: 15px;
+    margin: 25px 25px 15px 30px;
+    padding:15px 30px 15px 30px ;
+    color: rgba(0, 106, 80, 1);
+    border: 1px solid rgba(0, 106, 80, 1);
+    border-radius:6px ;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    margin:50px 38px 0px 39px;
+    border-radius: 8px;
+    background-color:rgba(198, 228, 214, 1) ;
+
+}
+
+.banner-container{
+    display: flex;
+    padding: 150px 150px 90px 60px;
+   
+
+}
+
+.banner-title{
+    justify-content: center;
+
+}
+
+.banner-title{
+    font-size: 24px;
+    color:rgba(14, 14, 14, 0.5) ;
+}
+
+.banner-sub-title{
+    font-size: 56px;
+    color: rgba(14, 14, 14, 1);
+}
+
+.banner-bnt{
+    font-size: 18px;
+    border: 2px solid rgba(0, 106, 80, 1);
+    padding: 17px 34px 17px 34px;
+    border-radius: 6px;
+    color:rgba(255, 255, 255, 1) ;
+    background-color: rgba(0, 106, 80, 1);
+}
+
+.banner-img{
+    width: 350px;
+    margin-left: 100px;
+}
+
+/* style pillars of bangladesh */
+
+.sub-title{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgba(14, 14, 14, 0.8) ;
+}
+
+.sub-discription{
+    font-size:16px ;
+    color:rgba(14, 14, 14, 0.7) ;
+}
+
+.margin{
+    margin:50px 38px 0px 39px;
+}
+
+.pillar{
+    display: flex;
+    gap: 24px;
+}
+
+.pillar-content{
+    padding:12px 24px 24px 24px ;
+    border-radius: 16px;
+    background-color:rgba(255, 255, 255, 1) ;
+    border: 1px solid rgba(14, 14, 14, 0.15) ;
+}
+
+/* the vision of future */
+                            
