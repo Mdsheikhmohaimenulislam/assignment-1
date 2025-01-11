@@ -368,7 +368,7 @@ table, td , th {
 }
 
 .donare-title{
-    padding: 40px 700px;
+    padding: 40px 500px;
     font-size:40px ;
     font-weight: bold;
 }
@@ -400,7 +400,7 @@ table, td , th {
     border-radius: 8px;
     color: white;
     margin-left: -50px;
-    padding:34px 304px 34px 304px;
+    padding:34px 35px 34px 304px;
     box-shadow: 0px 0px 1px 0px;
     border-radius: 8px;
     font-weight: bold;
@@ -414,7 +414,7 @@ table, td , th {
     
     }
 .tk-2{
-    margin-left: 300px;
+    margin-left: 200px;
     background-color: rgba(0, 106, 80, 1);
     border-radius: 8px;
     font-weight: bold;
@@ -448,7 +448,7 @@ table, td , th {
 }
 
 .email-box{
-    margin-left: 500px;
+    margin-left: 300px;
     padding:;
     box-shadow: 0px 0px 1px 0px;
     border-radius: 8px;
