@@ -14,7 +14,13 @@ nav{
     padding:15px 30px 15px 30px ;
     color: rgba(0, 106, 80, 1);
     border: 1px solid rgba(0, 106, 80, 1);
-    border-radius:6px ;
+    border-radius:6px ;  
+     cursor: pointer;
+}
+
+.bnt:hover{
+background-color: tomato;
+
 }
 
 .banner{
@@ -48,15 +54,20 @@ nav{
     color: rgba(14, 14, 14, 1);
 }
 
-.banner-bnt{
+.banner-bnt{ 
     font-size: 18px;
     border: 2px solid rgba(0, 106, 80, 1);
     padding: 17px 34px 17px 34px;
     border-radius: 6px;
     color:rgba(255, 255, 255, 1) ;
     background-color: rgba(0, 106, 80, 1);
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
-
+.banner-bnt:hover{
+    background-color:tomato;
+    
+    }
 .banner-img{
     width: 350px;
     margin-left: 100px;
@@ -139,7 +150,22 @@ nav{
     border: rgba(84, 144, 245, 1);
 
 }
+.learn-btn:hover{
+    background-color:tomato;
+    cursor: pointer;
+    
+    }
 
+.learn-btn-2:hover{
+    background-color:tomato;
+    cursor: pointer;
+    }
+
+.learn-btn-3:hover{
+    background-color:tomato;
+    cursor: pointer;
+    
+    }
 .learn-btn-2{
     padding: 11px 20px 11px 20px;
     border-radius: 6px;
@@ -200,6 +226,12 @@ table, td , th {
 
     background-color:rgba(198, 228, 214, 1) ;
   }
+
+.matter-btn:hover{
+    background-color:tomato;
+    cursor: pointer;
+    
+    }
 
   .matter-btn{
     font-size: 16px;
@@ -277,7 +309,11 @@ table, td , th {
     font-size: 32px;
     font-weight: bold;
 }
-
+.read-bnt:hover{
+    background-color:tomato;
+    cursor: pointer;
+    
+    }
 .read-bnt{
     background-color:rgba(0, 106, 80, 1) ;
     border-radius: 8px;
@@ -332,7 +368,7 @@ table, td , th {
 }
 
 .donare-title{
-    padding: 40px 600px;
+    padding: 40px 700px;
     font-size:40px ;
     font-weight: bold;
 }
@@ -371,6 +407,12 @@ table, td , th {
     color: white;
     border: 2px solid rgba(0, 106, 80, 1);
 }
+
+.tk-2:hover{
+    background-color:tomato;
+    cursor: pointer;
+    
+    }
 .tk-2{
     margin-left: 300px;
     background-color: rgba(0, 106, 80, 1);
@@ -425,6 +467,10 @@ table, td , th {
   
  
 }
+.Subscribe-btn:hover{
+        background-color:tomato;
+        cursor: pointer;
+ }
 
 .Subscribe-btn{
     padding:34px 104px 34px 104px; 
