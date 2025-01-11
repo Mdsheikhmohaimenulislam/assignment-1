@@ -383,3 +383,86 @@ table, td , th {
 
 /* subscribe */
 
+.back{
+    background-color:rgba(198, 228, 214, 1) ;
+    border-radius: 24px;
+    display: flex;
+    width: 100%;
+}
+
+.news-container{
+    display: flex;
+}
+
+.Subscribe-1{
+    margin-left: 400px;
+
+}
+
+.Subscribe-2{
+    margin-left: 300px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.email-box{
+    margin-left: 500px;
+    padding:;
+    box-shadow: 0px 0px 1px 0px;
+    border-radius: 8px;
+    border-radius: 24px;
+}
+
+.em{
+    padding:34px 304px 34px 304px; 
+    border-radius:24px 0px 0px 24px;  
+    font-size: 16px;
+}
+
+.Subscribe-3{
+    margin-left: 850px;
+    color: rgba(14, 14, 14, 0.7);
+  
+ 
+}
+
+.Subscribe-btn{
+    padding:34px 104px 34px 104px; 
+    border-radius:0px 24px 24px 0px;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background-color: rgba(0, 106, 80, 1);
+   
+}
+
+.subt-1{
+    margin-left: 200px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.coment-container{
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+}
+.coment{
+    padding:12px 24px 24px 24px ;
+    border-radius: 16px;
+    background-color:rgba(255, 255, 255, 1) ;
+    box-shadow: 0px 0px 3px 0px;
+    background-color:white;
+}
+
+.coment-tital{
+    font-size: 20px;
+    font-weight: bold;
+    padding:30px 0px 24px 10px ;
+}
+
+.coment-sub-tital{
+    padding:30px 0px 0px 10px ;
+}
+
+.coment-sub-tital-1{
+    margin-top: -15px;
+}
