@@ -117,7 +117,7 @@ nav{
     border-radius: 16px;
     background-color:rgba(255, 255, 255, 1) ;
     box-shadow: 0px 0px 3px 0px;
-    background-color: rgb(175, 243, 213);
+    border:none;
 
 
 }
@@ -162,7 +162,7 @@ nav{
 .matter-container{
     background-color:rgba(255, 255, 255, 1) ;
     border-radius:6px;
-    box-shadow: 0px 0px 3px 0px;
+    box-shadow: 0px 0px 1px 0px;
     padding: 45px 40px 45px 40px;
     
 
@@ -175,14 +175,12 @@ table{
 table, td , th {
     border:1px solid rgba(198, 228, 214, 1);
     border-collapse:collapse;
-
-
   }
 
   .matter-description{
     font-size: 20px;
     color: rgba(14, 14, 14, 1);
-    /* padding: 20px 200px 20px 200px; */
+    padding: 20px 200px 20px 200px;
   }
 
 
@@ -195,7 +193,7 @@ table, td , th {
 }
 
 
-  .sub-title{
+  .matter-sub-title{
     font-size: 20px;
     color: rgba(14, 14, 14, 1);
     padding: 20px 900px 20px 80px;
@@ -221,3 +219,167 @@ table, td , th {
     font-size: 40px;
     font-weight: bold;
   }
+
+  /* Recent news  */
+
+  .date-container{
+    display: flex;
+    gap: 10px;
+  }
+
+  .recent-container{
+    display: flex;
+    background-color:rgba(255, 255, 255, 1)  
+
+
+  }
+
+.recent-content{
+    background-color:rgba(255, 255, 255, 1) ;
+    border-radius:8px;
+    box-shadow: 0px 0px 1px 0px;
+    padding: 45px 40px 45px 40px;
+    margin-top: 80px;
+
+
+}
+.rent-1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    gap: 10px;
+}
+
+
+
+  .recent-container-1{
+    background-repeat: no-repeat;
+    background-position:left;
+    background-image: url("../assets/satelite.png");
+    border-radius: 24px;
+    height: 300px;
+    width: 300px;
+
+  }
+
+  .satellite-container{
+    margin-left: 350px;
+    height: 700px;
+    width: 700px;
+
+  }
+.recent-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bnd-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.read-bnt{
+    background-color:rgba(0, 106, 80, 1) ;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    padding: 11px 20px 11px 20px;
+    border: 2px solid rgba(0, 106, 80, 1);
+
+}
+
+.satellite-container-2{
+    background-image: url("../assets/satelite.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    border-radius: 24px;
+    height: 300px;
+    width: 300px;
+}
+
+
+/* Donate  */
+
+.donate-content{
+    justify-content: flex;
+    background-color:rgba(255, 255, 255, 1) ;
+    border-radius:8px;
+    padding: 45px 40px 45px 40px;
+    margin-top: 80px;
+}
+
+.donate-container{
+    justify-content:center;
+    display: flex;
+    gap:10px;
+}
+
+.donate-box{
+    background-color:rgba(255, 255, 255, 1) ;
+    border-radius:6px;
+    box-shadow: 0px 0px 1px 0px;
+    padding: 40px 40px 40px 40px;
+    margin-top: 80px;
+}
+
+.donate-box-1{
+    background-color:rgba(198, 228, 214, 1) ;
+    border-radius:6px;
+    box-shadow: 0px 0px 1px 0px;
+    padding: 40px 40px 40px 40px;
+    margin-top: 80px;
+    
+}
+
+.donare-title{
+    padding: 40px 600px;
+    font-size:40px ;
+    font-weight: bold;
+}
+
+.donate-sub-title{
+    padding: 40px 300px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.take{
+ margin-top: -800px;
+}
+
+
+.done{
+    margin-top: 10px;
+}
+
+.taka-box{
+    padding: 34px 34px 34px 34px;
+    margin: 34px 634px 34px 534px;
+ 
+
+}
+
+.tk-1{
+    margin-top: -30px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    color: white;
+    margin-left: -50px;
+    padding:34px 304px 34px 304px;
+    box-shadow: 0px 0px 1px 0px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid rgba(0, 106, 80, 1);
+}
+.tk-2{
+    margin-left: 300px;
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+
+/* subscribe */
+
